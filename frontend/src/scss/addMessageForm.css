@@ -1,0 +1,25 @@
+.addMessageForm {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 10px;
+  margin-top: auto;
+  height: 45px;
+}
+
+.addMessageForm input {
+  height: 45px;
+  width: 90%;
+  border: 1px solid;
+  border-radius: 10px;
+  border-color: darkcyan;
+  resize: none;
+  padding: 10px;
+}
+/*# sourceMappingURL=addMessageForm.css.map */
