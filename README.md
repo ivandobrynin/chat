@@ -1,8 +1,1 @@
-Список команд для запуска: 
-1 cd backend
-2 npm install
-3 npm start
-4 Открываем новый терминал
-5 cd frontend
-6 npm install
-npm start
+1 Установите postgreSQL 2 Откройте проект 3 В терминале пропишите cd backend 4 Затем npm install 5 npm start 6 Откройте второй терминал и пропишите cd frontend 6 Затем npm install 7 npm start
